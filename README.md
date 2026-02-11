@@ -1,8 +1,7 @@
 
 # 👋 Hi there, nicely meet you!
-
+I’m Fajar Diyos, Undergraduate Math Student @ ITS | Learning to build full-stack apps from scratch | Passionate about Software Engineering & Deep Learning Research
 ---
-## 🛠️ Loadout
 
 **Languages What I Used**
 <p>
