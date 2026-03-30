@@ -1,4 +1,4 @@
-
+[/who are you? what are you currently working on? what tools do you use? how to reach you?/]:
 # 👋 Hi there, nicely meet you!
 I’m Fajar Diyos, Passionate about Software Engineering & Deep Learning Research 
 ---
