@@ -22,14 +22,9 @@ I like building projects around image processing, OCR, data, and backend systems
   <img src="https://skillicons.dev/icons?i=postgresql,mysql,docker,git,github,linux" />
 </p>
 
-Also working with:
-
-`Pandas` · `NumPy` · `XGBoost` · `LightGBM` · `YOLO` · `PaddleOCR` · `Prisma`
-
 ### Currently interested in
 
 * Computer Vision
-* Object Detection & Segmentation
 * OCR / Document AI
 * Backend for AI applications
 * Machine Learning
