@@ -1,8 +1,6 @@
 # Hi, I'm Fajar 👋
 
-Mathematics graduate interested in **Computer Vision, Machine Learning, and Backend Development**.
-
-I like building projects around image processing, OCR, data, and backend systems.
+Coding enjoyer
 
 ### Tech Stack
 
