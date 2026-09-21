@@ -5,15 +5,11 @@ Coding enjoyer
 ### Tech Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,java,javascript,typescript,php" />
+  <img src="https://skillicons.dev/icons?i=matlab,python,java" />
 </p>
 
 <p>
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,sklearn" />
-</p>
-
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,nextjs,laravel,flask" />
+  <img src="https://skillicons.dev/icons?i=tensorflow,opencv,sklearn" />
 </p>
 
 <p>
